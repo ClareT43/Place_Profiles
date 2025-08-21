@@ -8,5 +8,5 @@ mytheme <- fresh::create_theme(
   )
 )
 
-url1 <- a("https://github.com/rbrown02", href = "https://github.com/rbrown02")
+url1 <- a("https://github.com/rbrown02", href = "https://github.com/claret43")
 url2 <- a("https://github.com/ropensci/fingertipsR", href = "https://github.com/ropensci/fingertipsR")
