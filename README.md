@@ -1,4 +1,4 @@
-This repository contains the code to generate the Place Profiles dashaboard - hosted on Shiny IO (https://ovnnt7-rbrown02.shinyapps.io/Place_Profiles/).
+This repository contains the code to generate the Place Profiles dashaboard - hosted on Shiny IO ( https://lcjq2p-lyndsey-allen.shinyapps.io/Place_Profiles/).
 <br>
 
 This dashboard has been produced for convenience, and to show how you can represent this publicly available data, **it is not a monitored or validated tool - use at your own peril!**
@@ -27,7 +27,7 @@ Education, Employment and Households: provides metrics on school readiness and a
 
 <ins>**Dashboard Development**</ins><br>
 
-This dashboard was developed by the NECS Consultancy Analytics Team. To access the source code please refer to my Github page: https://github.com/rbrown02
+This dashboard was developed by the NECS Consultancy Analytics Team. To access the source code please refer to my Github page: https://github.com/hellolyndsey
 <br>
 
 All data is from OHID’s Fingertips platform and has been pulled into the dashboard through an API using the fingertipsR package ( https://github.com/ropensci/fingertipsR ). (Westermann A, Fox S, Nanayakkara H, Flowers J (2024). fingertipsR: Fingertips Data for Public Health). R package version 1.0.12. The population pyramid was also created by code developed by the PHE team's fingertipsCharts package.
